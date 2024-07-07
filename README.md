@@ -1,4 +1,4 @@
-# MyRactPortfolio
+# MyReactPortfolio
 
 ## Description
 A portfolio website that displays contact info, previous projects and a quick summry on myself
